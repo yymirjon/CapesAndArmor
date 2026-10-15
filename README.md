@@ -1,3 +1,4 @@
+<img width="128" height="128" alt="AA_MapRevelation" src="https://github.com/user-attachments/assets/578106d3-8286-493c-b253-1d18d804ec6c" />
 ## Features
 - **Capes** wearable atop *most* apparel
 - **Hoods** wearable over *most* apparel
